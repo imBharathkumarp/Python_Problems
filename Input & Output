@@ -8,3 +8,14 @@ In Python, we use the `input()` function to take input from the user. The data e
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))  # Convert input to integer
 ```
+#### **1.2 Output to the Console:**
+The `print()` function is used to display output to the console. You can use it to display text, variables, or results of expressions.
+
+```python
+print("Hello, " + name + "! You are " + str(age) + " years old.")
+```
+
+You can also use **f-strings** (formatted string literals) for more readable code:
+```python
+print(f"Hello, {name}! You are {age} years old.")
+```
