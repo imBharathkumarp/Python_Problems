@@ -1,4 +1,22 @@
-a = 10 
+a = 10     #Addition
 b = 20
 a+=b
 print (a)
+
+
+a = 20     #Subtraction
+b = 20
+a-=b
+print (a)
+
+
+a = 20    #Division
+b = 30
+a/=b
+print(a)
+
+
+a = 10    #Multiplication 
+b = 20 
+a*=b
+print(a)
