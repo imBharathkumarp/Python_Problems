@@ -1,0 +1,19 @@
+txt = "Company12"
+name = txt.isalnum()
+# print(name)
+
+txt = "Company"
+alpha = txt.isalpha()
+# print(alpha)
+
+txt = '50800'
+num = txt.isdigit()
+# print(num)
+
+names = ["John", "Peter", "Vicky"]
+joined = "_".join(names)
+# print(joined)
+
+txt = "I love sports"
+result = txt.replace("sports", "cricket")
+print(result)
