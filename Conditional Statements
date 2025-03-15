@@ -1,0 +1,23 @@
+#if, elif , else statements
+
+aman , vinod = 90 , 80
+if vinod > aman:
+  print("vinod scores greater than aman")
+elif aman == vinod:
+  print("Both scores equally")
+else:
+  print('aman scores greater than vinod')
+
+
+#nested if statement
+
+marks = 72
+
+if marks > 35:
+  print("He is Pass")
+  if marks > 60:
+    print("He is in Distinction")
+  else:
+    print("He is in Mid Range")
+else:
+  print('Sadly, He is Fail')
