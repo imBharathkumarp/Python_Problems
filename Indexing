@@ -1,4 +1,4 @@
-name = Bharath   #Slicing
+name = Bharath   #indexing
 print(name[1:6]) 
 
 Name = "Bhathu"  #Back Indexing
