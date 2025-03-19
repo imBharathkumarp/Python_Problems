@@ -19,3 +19,10 @@ You can also use **f-strings** (formatted string literals) for more readable cod
 ```python
 print(f"Hello, {name}! You are {age} years old.")
 ```
+
+```python
+boy_name = input("boy_name = ")
+girl_name = input("girl_name = ")
+age_diff = abs(35-30)
+print(f"{boy_name} Married {girl_name},Age Difference is {age_diff}")
+```
