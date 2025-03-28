@@ -3,3 +3,5 @@ birthday = {
     "Bhanu" : "14-04-1999"
 }
 print(birthday.keys())
+print(birthday.values())
+print(birthday)
