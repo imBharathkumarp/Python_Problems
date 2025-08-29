@@ -1,6 +1,6 @@
 # **🚀 Python for Everything! 🐍💡**
 
-Python is one of the most versatile programming languages, and with the right libraries, you can do almost anything! Here are some powerful combinations:
+Python is one of the most versatile programming languages, and with the right libraries, you can do almost anything! and Here are some powerful combinations:
 
 * ✅ Pandas - Data Manipulation 📊
 * ✅ Scikit-Learn - Machine Learning 🤖
