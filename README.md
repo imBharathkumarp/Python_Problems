@@ -12,4 +12,3 @@ Python is one of the most versatile programming languages, and with the right li
 * ✅ Kivy - Mobile App Development 📱
 
 Python makes it easier than ever to dive into data science, AI, web dev, and even game or app creation! What’s your favorite Python library? Drop a comment below! ⬇️🔥
-
