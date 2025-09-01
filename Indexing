@@ -1,8 +1,8 @@
-name = Bharath   #indexing
+name = "Bharath"   #indexing
 print(name[1:6]) 
 
 Name = "Bhathu"  #Back Indexing
 print(Name[-1])
 
 Name = "Bhathu" #Slicing
-print(Name[0::2]
+print(Name[0::2])
